@@ -1,1 +1,0 @@
-# Predicting-Consumer-Brand-Preference-in-R
